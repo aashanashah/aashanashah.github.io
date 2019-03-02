@@ -38,7 +38,7 @@ body {
 	-moz-animation: Animate-HTML 4s;
 	-o-animation: Animate-HTML 4s;
 	height: 45px;
-	position: absolute;
+	position: relative;
 	background-color: #F9690E;
 	-webkit-border-radius: 3px;
 	-moz-border-radius: 3px;
@@ -83,7 +83,7 @@ to {
 	-o-animation: Animate-CSS 5s;
 	width: 70%;
 	height: 45px;
-	position: absolute;
+	position: relative;
 	background-color: #66CC99;
 	-webkit-border-radius: 3px;
 	-moz-border-radius: 3px;
