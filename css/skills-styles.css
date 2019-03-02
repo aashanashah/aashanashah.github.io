@@ -484,7 +484,7 @@ to {
 .Skill-Area {
 	z-index: 1;
 	float: left;
-	position: absolute;
+	position: relative;
 	margin-top: 10px;
 	margin-left: 10px;
 	text-shadow: none;
