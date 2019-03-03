@@ -31,14 +31,14 @@ body {
 	-moz-border-radius: 3px;
 	border-radius: 3px;
 }
-#Skill-HTML {
+#Skill-Swift {
 	width: 100%;
 	animation: Animate-HTML 4s;
 	-webkit-animation: Animate-HTML 4s;
 	-moz-animation: Animate-HTML 4s;
 	-o-animation: Animate-HTML 4s;
 	height: 45px;
-	position: relative;
+	position: absolute;
 	background-color: #F9690E;
 	-webkit-border-radius: 3px;
 	-moz-border-radius: 3px;
@@ -76,7 +76,7 @@ to {
 	width: 100%
 }
 }
-#Skill-CSS {
+#Skill-Objective-C {
 	animation: Animate-CSS 5s;
 	-webkit-animation: Animate-CSS 5s;
 	-moz-animation: Animate-CSS 5s;
@@ -121,7 +121,7 @@ to {
 	width: 70%
 }
 }
-#Skill-jQuery {
+#Skill-Cocoapods {
 	animation: Animate-jQuery 5s;
 	-webkit-animation: Animate-jQuery 5s;
 	-moz-animation: Animate-jQuery 5s;
@@ -166,7 +166,7 @@ to {
 	width: 40%
 }
 }
-#Skill-JS {
+#Skill-CoreData {
 	animation: Animate-JS 4s;
 	-webkit-animation: Animate-JS 4s;
 	-moz-animation: Animate-JS 4s;
@@ -211,7 +211,7 @@ to {
 	width: 65%
 }
 }
-#Skill-XML {
+#Skill-CoreLocation {
 	animation: Animate-XML 4s;
 	-webkit-animation: Animate-XML 4s;
 	-moz-animation: Animate-XML 4s;
@@ -256,7 +256,7 @@ to {
 	width: 40%
 }
 }
-#Skill-C {
+#Skill-UIKit {
 	animation: Animate-C 4s;
 	-webkit-animation: Animate-C 4s;
 	-moz-animation: Animate-C 4s;
@@ -301,7 +301,7 @@ to {
 	width: 30%
 }
 }
-#Skill-JAVA {
+#Skill-Foundation {
 	animation: Animate-JAVA 4s;
 	-webkit-animation: Animate-JAVA 4s;
 	-moz-animation: Animate-JAVA 4s;
@@ -346,7 +346,7 @@ to {
 	width: 25%
 }
 }
-#Skill-PHP {
+#Skill-Xcode {
 	animation: Animate-PHP 4s;
 	-webkit-animation: Animate-PHP 4s;
 	-moz-animation: Animate-PHP 4s;
@@ -391,7 +391,7 @@ to {
 	width: 50%
 }
 }
-#Skill-SQL {
+#Skill-Git {
 	animation: Animate-SQL 4s;
 	-webkit-animation: Animate-SQL 4s;
 	-moz-animation: Animate-SQL 4s;
@@ -436,7 +436,7 @@ to {
 	width: 80%
 }
 }
-#Skill-VBNET {
+#Skill-JIRA {
 	animation: Animate-VBNET 4s;
 	-webkit-animation: Animate-VBNET 4s;
 	-moz-animation: Animate-VBNET 4s;
@@ -479,6 +479,186 @@ to {
 }
 to {
 	width: 35%
+}
+}
+#Skill-Confluence {
+	animation: Animate-SQL 4s;
+	-webkit-animation: Animate-SQL 4s;
+	-moz-animation: Animate-SQL 4s;
+	-o-animation: Animate-SQL 4s;
+	width: 80%;
+	height: 45px;
+	position: absolute;
+	background-color: #674172;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+}
+@keyframes Animate-SQL {
+ from {
+ width: 10px;
+}
+to {
+	width: 80%
+}
+}
+@-webkit-keyframes Animate-SQL {
+ from {
+ width: 10px;
+}
+to {
+	width: 80%
+}
+}
+@-moz-keyframes Animate-SQL {
+ from {
+ width: 10px;
+}
+to {
+	width: 80%
+}
+}
+@-o-keyframes Animate-SQL {
+ from {
+ width: 10px;
+}
+to {
+	width: 80%
+}
+}
+#Skill-Android {
+	animation: Animate-SQL 4s;
+	-webkit-animation: Animate-SQL 4s;
+	-moz-animation: Animate-SQL 4s;
+	-o-animation: Animate-SQL 4s;
+	width: 80%;
+	height: 45px;
+	position: absolute;
+	background-color: #D2527F;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+}
+@keyframes Animate-SQL {
+ from {
+ width: 10px;
+}
+to {
+	width: 80%
+}
+}
+@-webkit-keyframes Animate-SQL {
+ from {
+ width: 10px;
+}
+to {
+	width: 80%
+}
+}
+@-moz-keyframes Animate-SQL {
+ from {
+ width: 10px;
+}
+to {
+	width: 80%
+}
+}
+@-o-keyframes Animate-SQL {
+ from {
+ width: 10px;
+}
+to {
+	width: 80%
+}
+}
+#Skill-Java {
+	animation: Animate-SQL 4s;
+	-webkit-animation: Animate-SQL 4s;
+	-moz-animation: Animate-SQL 4s;
+	-o-animation: Animate-SQL 4s;
+	width: 80%;
+	height: 45px;
+	position: absolute;
+	background-color: #446CB3;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+}
+@keyframes Animate-SQL {
+ from {
+ width: 10px;
+}
+to {
+	width: 80%
+}
+}
+@-webkit-keyframes Animate-SQL {
+ from {
+ width: 10px;
+}
+to {
+	width: 80%
+}
+}
+@-moz-keyframes Animate-SQL {
+ from {
+ width: 10px;
+}
+to {
+	width: 80%
+}
+}
+@-o-keyframes Animate-SQL {
+ from {
+ width: 10px;
+}
+to {
+	width: 80%
+}
+}
+#Skill-Python {
+	animation: Animate-SQL 4s;
+	-webkit-animation: Animate-SQL 4s;
+	-moz-animation: Animate-SQL 4s;
+	-o-animation: Animate-SQL 4s;
+	width: 80%;
+	height: 45px;
+	position: absolute;
+	background-color: #1BA39C;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+}
+@keyframes Animate-SQL {
+ from {
+ width: 10px;
+}
+to {
+	width: 80%
+}
+}
+@-webkit-keyframes Animate-SQL {
+ from {
+ width: 10px;
+}
+to {
+	width: 80%
+}
+}
+@-moz-keyframes Animate-SQL {
+ from {
+ width: 10px;
+}
+to {
+	width: 80%
+}
+}
+@-o-keyframes Animate-SQL {
+ from {
+ width: 10px;
+}
+to {
+	width: 80%
 }
 }
 .Skill-Area {
