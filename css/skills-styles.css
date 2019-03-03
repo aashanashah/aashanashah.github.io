@@ -32,27 +32,19 @@ body {
 	border-radius: 3px;
 }
 #Skill-Swift {
+	animation: Animate-CSS 5s;
+	-webkit-animation: Animate-CSS 5s;
+	-moz-animation: Animate-CSS 5s;
+	-o-animation: Animate-CSS 5s;
 	width: 95%;
-	animation: Animate-HTML 4s;
-	-webkit-animation: Animate-HTML 4s;
-	-moz-animation: Animate-HTML 4s;
-	-o-animation: Animate-HTML 4s;
 	height: 45px;
-	position: absolute;
+	position: relative;
 	background-color: #F9690E;
 	-webkit-border-radius: 3px;
 	-moz-border-radius: 3px;
 	border-radius: 3px;
 }
-@keyframes Animate-HTML {
-a from {
- width: 10px;
-}
-to {
-	width: 95%
-}
-}
-@-webkit-keyframes Animate-HTML {
+@keyframes Animate-CSS {
  from {
  width: 10px;
 }
@@ -60,7 +52,7 @@ to {
 	width: 95%
 }
 }
-@-moz-keyframes Animate-HTML {
+@-webkit-keyframes Animate-CSS {
  from {
  width: 10px;
 }
@@ -68,7 +60,15 @@ to {
 	width: 95%
 }
 }
-@-o-keyframes Animate-HTML {
+@-moz-keyframes Animate-CSS {
+ from {
+ width: 10px;
+}
+to {
+	width: 95%
+}
+}
+@-o-keyframes Animate-CSS {
  from {
  width: 10px;
 }
@@ -264,7 +264,7 @@ to {
 	width: 82%;
 	height: 45px;
 	position: absolute;
-	background-color: #674172;
+	background-color: #F39C12;
 	-webkit-border-radius: 3px;
 	-moz-border-radius: 3px;
 	border-radius: 3px;
@@ -489,7 +489,7 @@ to {
 	width: 75%;
 	height: 45px;
 	position: absolute;
-	background-color: #674172;
+	background-color: #66CC99;
 	-webkit-border-radius: 3px;
 	-moz-border-radius: 3px;
 	border-radius: 3px;
